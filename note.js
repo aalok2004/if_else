@@ -1,5 +1,6 @@
-var amount=1234;
+var amount=1234; //this is the amount you have
 var note=0;
+
 var tat = 0;
 
 var reminder = 0;
