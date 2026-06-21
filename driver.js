@@ -1,13 +1,12 @@
 var a ="unmarried";
+// male or female
 var gender="female";
 var age =40;
 if(a=="married")
     {
         console.log("you are can't drive");
-
     }else
         {
-          
             if(gender=="male"&&age>=40)
                 {
                     console.log("you can drive");
