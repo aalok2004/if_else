@@ -1,4 +1,4 @@
-let units = parseFloat(prompt("Enter electricity units:"));
+let units = parseFloat(456);
 let bill;
 
 if (units <= 50) {
